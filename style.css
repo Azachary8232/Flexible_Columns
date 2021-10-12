@@ -1,0 +1,13 @@
+
+
+.row{
+    display: flex;
+    background-color: yellow;
+    height: 200px;
+}
+
+.col{
+    flex: 1;
+    border-style: solid;
+    border-color: black;
+}
