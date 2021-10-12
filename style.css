@@ -16,4 +16,11 @@
     flex: 2;
     border-style: solid;
     border-color: black;
+    pad
+}
+
+.col-3{
+    flex: 3;
+    border-style: solid;
+    border-color: black;
 }
