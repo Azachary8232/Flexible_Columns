@@ -11,3 +11,9 @@
     border-style: solid;
     border-color: black;
 }
+
+.col-2{
+    flex: 2;
+    border-style: solid;
+    border-color: black;
+}
